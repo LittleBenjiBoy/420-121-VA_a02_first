@@ -1,3 +1,4 @@
 This is my first file!
 Wonderful stuff goes here.
+I'm inserting another line of text.
 A third line just to have some content.
